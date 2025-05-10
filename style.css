@@ -583,7 +583,7 @@ a.card__link {
     .cards-holder {
         flex-direction: column;
         justify-content: center;
-        align-items: center;
+        align-items: ; center
     }
 }
 
